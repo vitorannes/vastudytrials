@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VAstudy",
+  "description": "A comprehensive study tracking app with timer, question logging, and cloud synchronization via Supabase.",
+  "requestFramePermissions": []
+}
